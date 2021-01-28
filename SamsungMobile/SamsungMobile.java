@@ -14,6 +14,7 @@ public class SamsungMobile {
     public SamsungMobile(String color, float size) {
         this.color = color;
         this.size = size;
+        this.current_os = android_os_number;
     }
 
     public void update (){
