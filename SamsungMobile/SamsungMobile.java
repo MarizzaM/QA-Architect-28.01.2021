@@ -11,7 +11,7 @@ public class SamsungMobile {
 
 
 
-    public SamsungMobile(String color, float size, float current_os) {
+    public SamsungMobile(String color, float size) {
         this.color = color;
         this.size = size;
     }
